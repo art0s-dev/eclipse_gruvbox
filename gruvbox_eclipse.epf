@@ -1,11 +1,10 @@
-#Sun Apr 09 22:02:34 CEST 2023
+#Wed May 17 06:36:46 CEST 2023
 \!/=
 /configuration/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
-/configuration/org.eclipse.epp.mpc.ui/showOpenFavoritesNotification=false
 /configuration/org.eclipse.ui.ide/MAX_RECENT_WORKSPACES=10
-/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=C\:\\Users\\art0s\\eclipse-workspace\nC\:\\Users\\art0s\\Projekte\\eclipse_tryout
+/configuration/org.eclipse.ui.ide/RECENT_WORKSPACES=/Users/till/eclipse-workspace
 /configuration/org.eclipse.ui.ide/RECENT_WORKSPACES_PROTOCOL=3
-/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=true
+/configuration/org.eclipse.ui.ide/SHOW_RECENT_WORKSPACES=false
 /configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=true
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.commentsColor=204,204,204
 /instance/org.eclipse.ant.ui/org.eclipse.ant.ui.constantStringsColor=23,198,163
@@ -23,29 +22,29 @@
 /instance/org.eclipse.core.net/org.eclipse.core.net.hasMigrated=true
 /instance/org.eclipse.core.resources/encoding=UTF-8
 /instance/org.eclipse.core.resources/version=1
-/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions/>\r\n
+/instance/org.eclipse.debug.core/prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<watchExpressions/>\n
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryKnownColor=235,235,235
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.MemoryHistoryUnknownColor=170,175,185
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND=150,80,115
-/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<launchPerspectives/>\n
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.changedDebugElement=255,128,128
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.consoleBackground=53,53,53
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.errorColor=225,30,70
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.inColor=140,175,210
 /instance/org.eclipse.debug.ui/org.eclipse.debug.ui.outColor=235,235,235
-/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<viewBindings>\r\n    <view id\="org.eclipse.jdt.debug.ui.DisplayView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.VariableView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.DebugView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.ExpressionView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n    </view>\r\n    <view id\="org.eclipse.debug.ui.BreakpointView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n    </view>\r\n    <view id\="org.eclipse.ui.console.ConsoleView">\r\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\r\n    </view>\r\n</viewBindings>\r\n
+/instance/org.eclipse.debug.ui/org.eclipse.debug.ui.user_view_bindings=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<viewBindings>\n    <view id\="org.eclipse.jdt.debug.ui.DisplayView">\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n    </view>\n    <view id\="org.eclipse.debug.ui.VariableView">\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n    </view>\n    <view id\="org.eclipse.debug.ui.DebugView">\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="closed"/>\n    </view>\n    <view id\="org.eclipse.debug.ui.ExpressionView">\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n    </view>\n    <view id\="org.eclipse.debug.ui.BreakpointView">\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n    </view>\n    <view id\="org.eclipse.ui.console.ConsoleView">\n        <perspective id\="org.eclipse.debug.ui.DebugPerspective" userAction\="opened"/>\n    </view>\n</viewBindings>\n
 /instance/org.eclipse.debug.ui/overriddenByCSS=,org.eclipse.debug.ui.MemoryHistoryKnownColor,org.eclipse.debug.ui.MemoryHistoryUnknownColor,org.eclipse.debug.ui.PREF_CHANGED_VALUE_BACKGROUND,org.eclipse.debug.ui.changedDebugElement,org.eclipse.debug.ui.consoleBackground,org.eclipse.debug.ui.errorColor,org.eclipse.debug.ui.inColor,org.eclipse.debug.ui.outColor,
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.BreakpointView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.BreakpointView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="org.eclipse.debug.ui.check"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
-/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
+/instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.DebugVieworg.eclipse.debug.ui.DebugView=<?xml version\="1.0" encoding\="UTF-8"?>\n<DebugViewMemento org.eclipse.debug.ui.BREADCRUMB_DROPDOWN_AUTO_EXPAND\="false"/>
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.VariableView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="315" org.eclipse.debug.ui.SASH_VIEW_PART\="684">\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.VariableView">\r\n<BOOLEAN BOOLEAN\="true" IMemento.internal.id\="PRESENTATION_SHOW_LOGICAL_STRUCTURES"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
 /instance/org.eclipse.debug.ui/preferredDetailPanes=DefaultDetailPane,org.eclipse.jdt.debug.ui.JAVA_VARIABLE_DETAIL_PANE_VARIABLES\:org.eclipse.jdt.debug.ui.JAVA_VARIABLE_DETAIL_PANE_VARIABLES|org.eclipse.jdt.debug.ui.DETAIL_PANE_LINE_BREAKPOINT\:org.eclipse.jdt.debug.ui.DETAIL_PANE_LINE_BREAKPOINT|DefaultDetailPane\:DefaultDetailPane|
-/instance/org.eclipse.debug.ui/preferredTargets=default,org.eclipse.lsp4e.debug.toggleBreakpointTarget\:default|org.eclipse.lsp4e.debug.toggleBreakpointTarget\:org.eclipse.lsp4e.debug.toggleBreakpointTarget|
+/instance/org.eclipse.debug.ui/preferredTargets=default\:default|default,org.eclipse.lsp4e.debug.toggleBreakpointTarget\:default|org.eclipse.lsp4e.debug.toggleBreakpointTarget\:org.eclipse.lsp4e.debug.toggleBreakpointTarget|
 /instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_dark
 /instance/org.eclipse.e4.ui.workbench.renderers.swt/USE_ROUND_TABS=true
 /instance/org.eclipse.e4.ui.workbench.renderers.swt/enableMRU=true
 /instance/org.eclipse.e4.ui.workbench.renderers.swt/themeEnabled=true
-/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=C\:\\Users\\art0s\\git\\java_basics\\.git;C\:\\Users\\art0s\\git\\wqms\\.git;
-/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=C\:\\Users\\art0s\\git\\java_basics\\.git;C\:\\Users\\art0s\\git\\wqms\\.git;
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=/Users/till/eclipse-workspace/wqms/.git\:
+/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories.relative=wqms/.git\:
 /instance/org.eclipse.egit.core/RepositoryGroups.uuids=
 /instance/org.eclipse.egit.core/RepositorySearchDialogSearchPath=C\:\\Users\\art0s\\git
 /instance/org.eclipse.egit.core/core_ssh_default_agent=\\\\.\\pageant
@@ -55,6 +54,9 @@
 /instance/org.eclipse.egit.ui/resourcehistory_graph_split=500,500
 /instance/org.eclipse.egit.ui/resourcehistory_rev_split=700,300
 /instance/org.eclipse.epp.mpc.ui/CatalogDescriptor=https\://marketplace.eclipse.org
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Applications/Eclipse Java.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.6.v20230204-1729/jre/lib/jrt-fs.jar
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Applications/Eclipse Java.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.6.v20230204-1729/jre/lib/src.zip
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentPrefixes=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.argumentSuffixes=
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.codeComplete.fieldPrefixes=
@@ -76,11 +78,11 @@
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.ExpressionView.org.eclipse.jdt.debug.ui.show_null_entries=true
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.debug.ui.VariableView.org.eclipse.jdt.debug.ui.show_null_entries=true
 /instance/org.eclipse.jdt.junit/org.eclipse.jdt.junit.content_assist_favorite_static_members_migrated=true
-/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1679175345364" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1679175345364" name\="jre" path\="C\:\\Program Files\\Eclipse 4.27\\eclipse\\plugins\\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.6.v20230204-1729\\jre"/>\r\n    </vmType>\r\n</vmSettings>\r\n
+/instance/org.eclipse.jdt.launching/org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<vmSettings defaultVM\="52,org.eclipse.jdt.internal.launching.macosx.MacOSXType13,1684257199565" defaultVMConnector\="">\n    <vmType id\="org.eclipse.jdt.internal.launching.macosx.MacOSXType">\n        <vm id\="1684257199565" name\="JRE [17.0.6]" path\="/Applications/Eclipse Java.app/Contents/Eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_17.0.6.v20230204-1729/jre"/>\n    </vmType>\n</vmSettings>\n
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_background=200,200,0
 /instance/org.eclipse.jdt.ui/content_assist_completion_replacement_foreground=200,0,0
 /instance/org.eclipse.jdt.ui/content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
-/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=17
+/instance/org.eclipse.jdt.ui/content_assist_number_of_computers=12
 /instance/org.eclipse.jdt.ui/content_assist_parameters_background=52,57,61
 /instance/org.eclipse.jdt.ui/content_assist_parameters_foreground=238,238,238
 /instance/org.eclipse.jdt.ui/content_assist_proposals_background=52,57,61
@@ -121,6 +123,7 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.color=142,192,124
 /instance/org.eclipse.jdt.ui/semanticHighlighting.abstractMethodInvocation.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.color=146,131,116
+/instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.annotation.italic=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.color=146,131,116
 /instance/org.eclipse.jdt.ui/semanticHighlighting.annotationElementReference.enabled=true
@@ -128,22 +131,28 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.class.color=254,128,25
 /instance/org.eclipse.jdt.ui/semanticHighlighting.class.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.color=146,131,116
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.strikethrough=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.deprecatedMember.underline=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.enum.color=241,229,188
 /instance/org.eclipse.jdt.ui/semanticHighlighting.enum.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.enum.italic=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.field.color=131,165,152
+/instance/org.eclipse.jdt.ui/semanticHighlighting.field.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedField.color=143,143,191
 /instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.color=142,192,124
 /instance/org.eclipse.jdt.ui/semanticHighlighting.inheritedMethodInvocation.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.interface.color=241,229,188
 /instance/org.eclipse.jdt.ui/semanticHighlighting.interface.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.color=170,157,147
+/instance/org.eclipse.jdt.ui/semanticHighlighting.localVariable.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.bold=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.color=183,173,164
 /instance/org.eclipse.jdt.ui/semanticHighlighting.localVariableDeclaration.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.method.bold=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.method.color=142,192,124
 /instance/org.eclipse.jdt.ui/semanticHighlighting.method.enabled=true
+/instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.bold=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.color=142,192,124
 /instance/org.eclipse.jdt.ui/semanticHighlighting.methodDeclarationName.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.number.color=131,165,152
@@ -153,9 +162,12 @@
 /instance/org.eclipse.jdt.ui/semanticHighlighting.restrictedKeywords.bold=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.restrictedKeywords.color=146,131,116
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.color=146,131,116
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticField.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.color=146,131,116
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticFinalField.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.bold=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.color=142,192,124
+/instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.enabled=true
 /instance/org.eclipse.jdt.ui/semanticHighlighting.staticMethodInvocation.italic=false
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.color=146,131,116
 /instance/org.eclipse.jdt.ui/semanticHighlighting.typeArgument.enabled=true
@@ -190,26 +202,6 @@
 /instance/org.eclipse.mylyn.wikitext.ui/phrase-code=font-family\: monospace; color\:  \#569cd6;
 /instance/org.eclipse.oomph.workingsets/working.set.group=<?xml version\="1.0" encoding\="UTF-8"?>\n<workingsets\:WorkingSetGroup xmi\:version\="2.0" xmlns\:xmi\="http\://www.omg.org/XMI" xmlns\:workingsets\="http\://www.eclipse.org/oomph/workingsets/1.0"/>\n
 /instance/org.eclipse.pde.api.tools/knownEEFragments=
-/instance/org.eclipse.pde.core/workspace_target_handle=local\:1680891204940.target
-/instance/org.eclipse.pde.ui/editor.color.default=217,232,247
-/instance/org.eclipse.pde.ui/editor.color.externalized_string=140,210,20
-/instance/org.eclipse.pde.ui/editor.color.externalized_string_italic=true
-/instance/org.eclipse.pde.ui/editor.color.header_assignment=103,207,241
-/instance/org.eclipse.pde.ui/editor.color.header_assignment_bold=true
-/instance/org.eclipse.pde.ui/editor.color.header_attributes=140,210,20
-/instance/org.eclipse.pde.ui/editor.color.header_key=221,40,103
-/instance/org.eclipse.pde.ui/editor.color.header_key_bold=true
-/instance/org.eclipse.pde.ui/editor.color.header_osgi=38,139,210
-/instance/org.eclipse.pde.ui/editor.color.header_value=23,198,163
-/instance/org.eclipse.pde.ui/editor.color.header_value_italic=true
-/instance/org.eclipse.pde.ui/editor.color.instr=221,40,103
-/instance/org.eclipse.pde.ui/editor.color.instr_bold=true
-/instance/org.eclipse.pde.ui/editor.color.string=23,198,163
-/instance/org.eclipse.pde.ui/editor.color.string_italic=true
-/instance/org.eclipse.pde.ui/editor.color.tag=38,139,210
-/instance/org.eclipse.pde.ui/editor.color.tag_bold=true
-/instance/org.eclipse.pde.ui/editor.color.xml_comment=98,98,98
-/instance/org.eclipse.pde.ui/overriddenByCSS=,editor.color.default,editor.color.externalized_string,editor.color.externalized_string_italic,editor.color.header_assignment,editor.color.header_assignment_bold,editor.color.header_attributes,editor.color.header_key,editor.color.header_key_bold,editor.color.header_osgi,editor.color.header_value,editor.color.header_value_italic,editor.color.instr,editor.color.instr_bold,editor.color.string,editor.color.string_italic,editor.color.tag,editor.color.tag_bold,editor.color.xml_comment,
 /instance/org.eclipse.tm.terminal.control/BACKGROUND=40,40,40
 /instance/org.eclipse.tm.terminal.control/BLACK=40,40,40
 /instance/org.eclipse.tm.terminal.control/BLUE=69,131,136
@@ -274,7 +266,7 @@
 /instance/org.eclipse.ui.editors/writeOccurrenceIndicationColor=27,98,145
 /instance/org.eclipse.ui.genericeditor/matchingBracketsColor=249,250,244
 /instance/org.eclipse.ui.genericeditor/overriddenByCSS=,matchingBracketsColor,
-/instance/org.eclipse.ui.ide/platformState=1679174821282
+/instance/org.eclipse.ui.ide/platformState=1684257188044
 /instance/org.eclipse.ui.ide/quickStart=false
 /instance/org.eclipse.ui.ide/tipsAndTricks=true
 /instance/org.eclipse.ui.navigator/org.eclipse.ui.navigator.ProjectExplorer.filterActivation=\:org.eclipse.jdt.java.ui.filters.HidePackageDeclaration\:org.eclipse.jdt.java.ui.filters.HideOutputFolder\:org.eclipse.buildship.ui.navigator.filter.gradle.subProject\:org.eclipse.ui.navigator.resources.nested.HideTopLevelProjectIfNested\:org.eclipse.buildship.ui.navigator.filter.gradle.buildfolder\:org.eclipse.jdt.java.ui.filters.HideEmptyInnerPackages\:org.eclipse.jst.j2ee.navigator.ui.filters.jetemitters\:org.eclipse.jdt.java.ui.filters.HideInnerClassFiles\:org.eclipse.ui.navigator.resources.filters.startsWithDot\:org.eclipse.jdt.java.ui.filters.HideEmptyLibraryContainers\:org.eclipse.jdt.java.ui.filters.HideImportDeclaration\:org.eclipse.jdt.java.ui.filters.HideSyntheticMembers\:org.eclipse.ui.navigator.resources.nested.HideFolderWhenProjectIsShownAsNested\:
@@ -291,7 +283,7 @@
 /instance/org.eclipse.ui.workbench/DECORATIONS_COLOR=251,241,199
 /instance/org.eclipse.ui.workbench/DELETION_COLOR=204,36,26
 /instance/org.eclipse.ui.workbench/EDITION_COLOR=251,241,199
-/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.m2e.core.mavenVersionDecorator\:false,org.eclipse.wst.server.ui.decorator\:false,org.eclipse.jst.ws.jaxws.dom.integration.navigator.WebServiceDecorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.DependencyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ColumnDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.ForeignKeyDecoration\:true,org.eclipse.datatools.connectivity.sqm.core.internal.ui.explorer.IndexTriggerDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.bookmarkDecoration\:true,org.eclipse.datatools.connectivity.internal.core.ui.FilterNodeDecoration\:true,org.eclipse.debug.ui.prototype.decorator\:true,org.eclipse.datatools.enablement.sybase.systemtabledecorator\:true,org.eclipse.datatools.connectivity.ui.decorator.contentextension\:false,org.eclipse.datatools.enablement.ingres.ui.providers.decorators.SynonymDecorationService\:true,org.eclipse.datatools.enablement.ingres.internal.ui.providers.decorators.ParameterDecorationService\:true,org.eclipse.m2e.core.maven2decorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:true,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.jdt.internal.ui.without.test.code.decorator\:true,org.eclipse.jst.j2ee.navigator.internal.J2EEProjectDecorator\:true,org.eclipse.datatools.enablement.sybase.asa.proxytabledecorator\:true,org.eclipse.datatools.enablement.sybase.ase.webservicetabledecorator\:true,org.eclipse.wst.server.ui.navigatorDecorator\:true,org.eclipse.buildship.ui.gradledecorator\:true,org.eclipse.eclemma.ui.coverageDecorator\:false,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator\:true,org.eclipse.jst.jee.ui.internal.navigator.ejb.BeanDecorator\:true,org.eclipse.jst.jee.navigator.internal.JEEProjectDecorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_ejb\:true,org.eclipse.jst.j2ee.internal.ui.util.AnnotationIconDecorator_servlet\:true,
+/instance/org.eclipse.ui.workbench/ENABLED_DECORATORS=org.eclipse.m2e.core.mavenVersionDecorator\:false,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,org.eclipse.egit.gitflow.ui.internal.decorators.GitflowLightweightDecorator\:true,org.eclipse.debug.ui.prototype.decorator\:true,org.eclipse.m2e.core.maven2decorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:true,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.jdt.internal.ui.without.test.code.decorator\:true,org.eclipse.buildship.ui.gradledecorator\:true,org.eclipse.eclemma.ui.coverageDecorator\:false,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.egit.ui.internal.repository.RepositoryTreeNodeDecorator\:true,org.eclipse.pde.ui.binaryProjectDecorator\:false,
 /instance/org.eclipse.ui.workbench/ERROR_COLOR=204,36,26
 /instance/org.eclipse.ui.workbench/HYPERLINK_COLOR=131,165,152
 /instance/org.eclipse.ui.workbench/INCOMING_COLOR=131,165,152
@@ -368,6 +360,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.tag=131,165,152
 /instance/org.eclipse.ui.workbench/org.eclipse.pde.genericeditor.extension.editor.color.text=251,241,199
 /instance/org.eclipse.ui.workbench/org.eclipse.search.ui.match.highlight=250,189,47
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<keyBinding commandId\="org.eclipse.eclemma.ui.commands.CoverageLast" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+R"/>\n<keyBinding commandId\="org.eclipse.debug.ui.commands.Terminate" contextId\="org.eclipse.debug.ui.debugging" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+\u00B4"/>\n<keyBinding commandId\="org.eclipse.ui.window.nextPerspective" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+P"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+F11"/>\n<keyBinding commandId\="org.eclipse.debug.ui.commands.DebugLast" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+D"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="CTRL+SHIFT+F11"/>\n<keyBinding contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+F8"/>\n<keyBinding commandId\="org.eclipse.debug.ui.commands.StepInto" contextId\="org.eclipse.debug.ui.debugging" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND++"/>\n<keyBinding contextId\="org.eclipse.ui.textEditorScope" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+D"/>\n<keyBinding contextId\="org.eclipse.debug.ui.debugging" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F6"/>\n<keyBinding contextId\="org.eclipse.debug.ui.debugging" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+F2"/>\n<keyBinding contextId\="org.eclipse.debug.ui.debugging" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="F5"/>\n<keyBinding commandId\="org.eclipse.eclemma.ui.removeAllSessions" contextId\="org.eclipse.ui.contexts.window" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+\u00B4"/>\n<keyBinding commandId\="org.eclipse.debug.ui.commands.StepOver" contextId\="org.eclipse.debug.ui.debugging" keyConfigurationId\="org.eclipse.ui.defaultAcceleratorConfiguration" keySequence\="COMMAND+\#"/>\n</org.eclipse.ui.commands>
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.editors.rangeIndicatorColor=131,165,152
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.CONFLICTING_COLOR=240,15,66
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.ide.systemDefault.CONTENT_ASSIST_BACKGROUND_COLOR=52,57,61
@@ -432,7 +425,7 @@
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INACTIVE_TAB_TEXT_COLOR=234,231,225
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INFORMATION_BACKGROUND=60,56,54
 /instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.INFORMATION_FOREGROUND=251,241,199
-/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.workbench.texteditor.blockSelectionModeFont=1|Consolas|10.0|0|COCOA|1|;
 /instance/org.eclipse.ui.workbench/overriddenByCSS=,org.eclipse.ui.workbench.HOVER_BACKGROUND,org.eclipse.ui.workbench.HOVER_FOREGROUND,OUTGOING_COLOR,
 /instance/org.eclipse.ui/showIntro=false
 /instance/org.eclipse.urischeme/processedSchemes=,eclipse+command,eclipse+mpc
@@ -560,15 +553,9 @@
 @org.eclipse.jdt.launching=3.19.900.v20230209-1222
 @org.eclipse.jdt.ui=3.28.0.v20230210-2115
 @org.eclipse.jsch.core=1.4.0.v20220813-1037
-@org.eclipse.jst.j2ee.webservice.ui=1.1.801.v202301170822
-@org.eclipse.jst.jsp.core=1.4.500.v202211200019
-@org.eclipse.jst.jsp.ui=1.3.400.v202211200019
 @org.eclipse.m2e.discovery=2.0.200.20230210-1347
 @org.eclipse.mylyn.wikitext.ui=3.0.46.202301111837
 @org.eclipse.oomph.workingsets=1.12.0.v20220421-1218
-@org.eclipse.pde.api.tools=1.2.1200.v20230214-1309
-@org.eclipse.pde.core=3.16.100.v20230126-0956
-@org.eclipse.pde.ui=3.13.800.v20230214-0834
 @org.eclipse.tm.terminal.control=5.4.0.202211062329
 @org.eclipse.ui=3.202.0.v20230214-1401
 @org.eclipse.ui.browser=3.7.400.v20230220-1021
@@ -578,11 +565,4 @@
 @org.eclipse.ui.navigator=3.11.0.v20230214-1401
 @org.eclipse.ui.workbench=3.128.0.v20230220-1021
 @org.eclipse.urischeme=1.2.300.v20230220-0932
-@org.eclipse.wb.core=1.11.0.202210231159
-@org.eclipse.wst.css.ui=1.2.200.v202211200019
-@org.eclipse.wst.html.ui=1.1.800.v202211200019
-@org.eclipse.wst.jsdt.ui=2.1.600.v202211200038
-@org.eclipse.wst.sse.ui=1.7.600.v202211200019
-@org.eclipse.wst.ws.service.policy=1.0.450.v201903050508
-@org.eclipse.wst.xml.ui=1.2.700.v202211200019
 file_export_version=3.0
